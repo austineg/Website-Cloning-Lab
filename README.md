@@ -66,6 +66,9 @@ ADMIN$ used for remote administration
 IP$ used for system communication
 print$ printer driver files
 
+Run enum4linux -Sv 172.17.0.2 which mean give me more detail info about the share name
+![Uploading WhatsApp Image 2026-01-15 at 8.00.37 AM.jpeg…]()
+
 
 
 

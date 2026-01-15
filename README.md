@@ -60,7 +60,7 @@ print$.....
 You do NOT see the files inside them.
 ![WhatsApp Image 2026-01-15 at 7 37 24 AM](https://github.com/user-attachments/assets/7072601b-75a7-47f7-a0e0-f1e07546bb92)
 
-....the dollar($) mean the share name does not show up when someone casually browses the network but if you know the name you can still access it with permission.
+....the dollar sign means the share name does not show up when someone casually browses the network but if you know the name you can still access it with permission.
 the C$ means hidden share of the C drive
 ADMIN$ used for remote administration
 IP$ used for system communication

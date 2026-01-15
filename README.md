@@ -47,8 +47,24 @@ enum4linux -U 172.17.0.2
 ![WhatsApp Image 2026-01-15 at 7 23 03 AM](https://github.com/user-attachments/assets/72c258a0-623c-47b6-8fbb-270b0dd4eb70)
 ![WhatsApp Image 2026-01-15 at 7 16 48 AM](https://github.com/user-attachments/assets/b33bf780-52c0-4e6d-945f-d932c921b6d2)
 
+Next enumerate the shared resource on the network(172.17.0.2)
+enum4linux -S 172.17.0.2
+You are basically asking 172.17.0.2:
+“What shared folders do you have?”
+What you get back
+You get only the NAMES of shared folders, for example:
+Public
+Shared
+IPC$
+print$.....
+You do NOT see the files inside them.
+![WhatsApp Image 2026-01-15 at 7 37 24 AM](https://github.com/user-attachments/assets/7072601b-75a7-47f7-a0e0-f1e07546bb92)
 
-
+....the dollar($) mean the share name does not show up when someone casually browses the network but if you know the name you can still access it with permission.
+the C$ means hidden share of the C drive
+ADMIN$ used for remote administration
+IP$ used for system communication
+print$ printer driver files
 
 
 

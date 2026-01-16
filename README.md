@@ -130,7 +130,7 @@ Password expiration time
 ![WhatsApp Image 2026-01-16 at 12 18 39 AM](https://github.com/user-attachments/assets/048ce2ea-d78f-4988-be7c-b308e1870381)
 
 
-
+enum4linux -a 172.17.0.2, this perform full SMB enumeration on the target machine(172.17.0.2)
 
 
 

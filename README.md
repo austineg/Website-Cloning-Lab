@@ -1,8 +1,5 @@
 Website cloning works by using kali linux platform to generate tools for the cloning. The tools are deployed by first typing the command "setoolkit" in the kali terminal
 
-![WhatsApp Image 2026-01-15 at 5 50 43 AM](https://github.com/user-attachments/assets/15422767-e462-46ad-b212-41f9ea61945c)
-
-
 ![WhatsApp Image 2026-01-15 at 5 33 31 AM](https://github.com/user-attachments/assets/24a2da0b-9f76-43bc-9b30-2cde27712263)
 
 
